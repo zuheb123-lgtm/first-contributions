@@ -131,3 +131,4 @@ replacing `your-branch-name` with the name of the branch you created earlier.
   The exact url (after `origin`) can be obtained on your GitHub repo, similar to the steps taken when originally [cloning the repo](#clone-the-repository).
   Only difference is, once you have clicked on the `Code` button, you should switch to the `SSH` tab, and click the _copy to clipboard_ icon there.
 </details>
+- Zuheb Mohamud
